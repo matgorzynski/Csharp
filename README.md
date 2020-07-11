@@ -17,6 +17,9 @@ Below is a list of projects with links. I tried to group the list ;) Unsegregate
 * [private](https://github.com/matgorzynski/Csharp/tree/master/privateKeyword-example)
 * [protected](https://github.com/matgorzynski/Csharp/tree/master/protectedKeyword-example)
 
+### Type of class:
+* [abstract](https://github.com/matgorzynski/Csharp/tree/master/abstractClass-example)
+
 ### other:
 * [lock](https://github.com/matgorzynski/Csharp/tree/master/lock-example)
 * [yield](https://github.com/matgorzynski/Csharp/tree/master/yield-example)
