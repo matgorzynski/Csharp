@@ -19,6 +19,8 @@ Below is a list of projects with links. I tried to group the list ;) Unsegregate
 
 ### Type of class:
 * [abstract](https://github.com/matgorzynski/Csharp/tree/master/abstractClass-example)
+* [partial](https://github.com/matgorzynski/Csharp/tree/master/partialClass-example)
+* [sealed](https://github.com/matgorzynski/Csharp/tree/master/sealedClass-example)
 
 ### other:
 * [lock](https://github.com/matgorzynski/Csharp/tree/master/lock-example)
