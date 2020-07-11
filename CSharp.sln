@@ -25,13 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "boxing-example", "boxing-ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unboxing-example", "unboxing-example\unboxing-example.csproj", "{D56940D8-5F29-4A34-BBE8-CE0F6C940F21}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "type-class", "type-class", "{8C93EDE7-B199-4BD7-89FF-64BC3888F704}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Keywords", "Keywords", "{8C93EDE7-B199-4BD7-89FF-64BC3888F704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "privateKeyword-example", "privateKeyword-example\privateKeyword-example.csproj", "{AFBFEE32-0D4A-4413-9298-18CC2B9648A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "privateKeyword-example", "privateKeyword-example\privateKeyword-example.csproj", "{AFBFEE32-0D4A-4413-9298-18CC2B9648A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "protectedKeyword-example", "protectedKeyword-example\protectedKeyword-example.csproj", "{87FC3218-1118-4F15-9435-3D8053A5EA33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "protectedKeyword-example", "protectedKeyword-example\protectedKeyword-example.csproj", "{87FC3218-1118-4F15-9435-3D8053A5EA33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "publicKeyword-example", "publicKeyword-example\publicKeyword-example.csproj", "{AA5DAE75-B62B-4590-B323-8882858B5E22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "publicKeyword-example", "publicKeyword-example\publicKeyword-example.csproj", "{AA5DAE75-B62B-4590-B323-8882858B5E22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
