@@ -33,6 +33,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "protectedKeyword-example", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "publicKeyword-example", "publicKeyword-example\publicKeyword-example.csproj", "{AA5DAE75-B62B-4590-B323-8882858B5E22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractClass-example", "abstractClass-example\abstractClass-example.csproj", "{286F60F1-EB69-4AF6-94FF-615C22E6DE23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "classType", "classType", "{5F532D5D-512C-4956-8B49-810DB0F18BC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,10 @@ Global
 		{AA5DAE75-B62B-4590-B323-8882858B5E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA5DAE75-B62B-4590-B323-8882858B5E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA5DAE75-B62B-4590-B323-8882858B5E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286F60F1-EB69-4AF6-94FF-615C22E6DE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286F60F1-EB69-4AF6-94FF-615C22E6DE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286F60F1-EB69-4AF6-94FF-615C22E6DE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286F60F1-EB69-4AF6-94FF-615C22E6DE23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +105,7 @@ Global
 		{AFBFEE32-0D4A-4413-9298-18CC2B9648A3} = {8C93EDE7-B199-4BD7-89FF-64BC3888F704}
 		{87FC3218-1118-4F15-9435-3D8053A5EA33} = {8C93EDE7-B199-4BD7-89FF-64BC3888F704}
 		{AA5DAE75-B62B-4590-B323-8882858B5E22} = {8C93EDE7-B199-4BD7-89FF-64BC3888F704}
+		{286F60F1-EB69-4AF6-94FF-615C22E6DE23} = {5F532D5D-512C-4956-8B49-810DB0F18BC5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D520D7A1-9DB3-4DD5-8928-8228752FD049}
